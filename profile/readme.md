@@ -14,8 +14,8 @@ Repository: [hub-product-stock-company](https://github.com/jumun-personal/hub-pr
 
 ### 개인 고도화 
   - **트래픽 제어 ratelimit**
-    - 전체 요청 처리율 제한 + 대기열 [code]()
-    - PG 처리율 제한 + 대기열 [code]()
+    - 전체 요청 처리율 제한 + 대기열 [GlobalQueueService.java](https://github.com/jumun-personal/rate-limiter-proxy/blob/main/src/main/java/com/jumunhasyeo/ratelimiter/service/global/GlobalQueueService.java)
+    - PG 처리율 제한 + 대기열 [pg/RateLimiterService.java](https://github.com/jumun-personal/rate-limiter-proxy/blob/main/src/main/java/com/jumunhasyeo/ratelimiter/service/pg/RateLimiterService.java)
   - **주문 API 최적화 평균 응답 시간 약 32% 개선**
     - [BlackFridayOrderOrchestrator.class](https://github.com/jumun-personal/order-to-shipping-service/blob/dev/src/main/java/com/jumunhasyeotjo/order_to_shipping/order/blackfriday/applicatiion/BFOrderOrchestrator.java)
 
