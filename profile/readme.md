@@ -9,7 +9,7 @@ Repository: [hub-product-stock-company](https://github.com/jumun-personal/hub-pr
   - 재고 관리 기능
   - 허브 관리 기능
 ### 개인 고도화 
-  - **주문 대기열 트래픽 제어 **
+  - **주문 대기열 트래픽 제어**
     - 대기열 [QueueServiceImpl.java](https://github.com/jumun-personal/wait-room/blob/main/src/main/java/com/jumunhasyeo/ratelimiter/queue/service/QueueServiceImpl.java)
   - **주문 API 최적화 평균 응답 시간 약 32% 개선**
     - [BlackFridayOrderOrchestrator.class](https://github.com/jumun-personal/order-to-shipping-service/blob/dev/src/main/java/com/jumunhasyeotjo/order_to_shipping/order/blackfriday/applicatiion/BFOrderOrchestrator.java)
@@ -19,3 +19,4 @@ Repository: [hub-product-stock-company](https://github.com/jumun-personal/hub-pr
   - [.github/workflow/**](https://github.com/jumun-personal/hub-product-stock-company/tree/dev/.github/workflows)
 - **AWS 인프라 구축(ECS 배포 담당)**
 
+<img width="633"  alt="스크린샷 2026-02-08 오후 6 10 13" src="https://github.com/user-attachments/assets/6eb46790-a442-40f5-9d8c-00334653405b" />
