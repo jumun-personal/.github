@@ -17,6 +17,4 @@ Repository: [hub-product-stock-company](https://github.com/jumun-personal/hub-pr
 ### 인프라
 - **GithubAction ECS CI/CD 구현**
   - [.github/workflow/**](https://github.com/jumun-personal/hub-product-stock-company/tree/dev/.github/workflows)
-- **AWS 인프라 구축(ECS 배포 담당)**
-
-<img width="633"  alt="스크린샷 2026-02-08 오후 6 10 13" src="https://github.com/user-attachments/assets/6eb46790-a442-40f5-9d8c-00334653405b" />
+- **AWS 인프라 구축(ECS 구성 및 배포 담당)**
